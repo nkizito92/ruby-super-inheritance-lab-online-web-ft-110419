@@ -10,7 +10,7 @@ class ChattyStudent < Student
     i = 1
     until i < 10
          puts "Pick me!"
-         i+=1
+      
      end
   end 
   
